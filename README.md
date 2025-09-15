@@ -2,7 +2,22 @@
 
 A modern, responsive Netflix clone built with Next.js 14, TypeScript, Tailwind CSS, and Shadcn UI components. This project replicates key features and the signature look-and-feel of Netflix's streaming platform.
 
-![Netflix Clone](/public/netflix%20netflix%20home%20page.jpg)
+## Screenshots
+
+### Home Page
+![Home Page](https://res.cloudinary.com/dx9bvma03/image/upload/v1757930490/Screenshot_2025-09-15_152839_zdby6a.png)
+
+### Movie Categories
+![Movie Categories](https://res.cloudinary.com/dx9bvma03/image/upload/v1757930586/Screenshot_2025-09-14_194306_srrgvf.png)
+
+### Profile Selection
+![Profile Selection](https://res.cloudinary.com/dx9bvma03/image/upload/v1757930573/Screenshot_2025-09-14_194409_iw5gwk.png)
+
+### Login Page
+![Login Page](https://res.cloudinary.com/dx9bvma03/image/upload/v1757930649/Screenshot_2025-09-14_194445_lgqt41.png)
+
+### Browse Page
+![Browse Page](https://res.cloudinary.com/dx9bvma03/image/upload/v1757930674/Screenshot_2025-09-14_194639_l6fgax.png)
 
 ## Features
 
