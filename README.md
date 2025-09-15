@@ -1,4 +1,4 @@
-# Netflix Clone
+# Netflix UI Clone
 
 A modern, responsive Netflix clone built with Next.js 14, TypeScript, Tailwind CSS, and Shadcn UI components. This project replicates key features and the signature look-and-feel of Netflix's streaming platform.
 
