@@ -19,40 +19,15 @@ A modern, responsive Netflix clone built with Next.js 14, TypeScript, Tailwind C
 ### 🎯 Key Features
 
 - **Modern UI/UX**: Faithful recreation of Netflix's sleek user interface
-- **Responsive Design**: Fully responsive across desktop, tablet, and mobile devices
 - **Dynamic Content**: Movie/Show rows with horizontal scrolling
 - **Interactive Elements**: 
   - YouTube video integration
   - Hover effects on movie cards
   - Dynamic navigation bar
   - Profile selection screen
-  - Smooth animations and transitions
+  
 
-### 📱 Pages
 
-1. **Home Page**
-   - Hero banner with video playback
-   - Multiple categorized content rows
-   - Dynamic movie/show cards
-   - Auto-playing trailers on hover
-
-2. **Browse Page**
-   - Category-based content organization
-   - Search functionality
-   - Profile dropdown
-   - Notification bell
-
-3. **Login Page**
-   - Netflix-style authentication UI
-   - Remember me functionality
-   - Form validation
-   - Responsive design
-
-4. **Profile Selection Page**
-   - Multiple profile support
-   - Add profile option
-   - Profile management UI
-   - Kids profile option
 
 ### 🛠️ Technical Features
 
@@ -81,30 +56,6 @@ A modern, responsive Netflix clone built with Next.js 14, TypeScript, Tailwind C
   - YouTube iframe API
   - CSS animations
   - Lazy loading
-
-## 📦 Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/netflix-clone.git
-   ```
-
-2. Install dependencies:
-   ```bash
-   cd netflix-clone
-   npm install
-   # or
-   pnpm install
-   ```
-
-3. Run the development server:
-   ```bash
-   npm run dev
-   # or
-   pnpm dev
-   ```
-
-4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
 ## 🗂️ Project Structure
 
