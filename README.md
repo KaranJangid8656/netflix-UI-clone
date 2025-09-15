@@ -76,27 +76,7 @@ netflix-clone/
 └── lib/                # Utility functions
 ```
 
-## 💻 Usage
 
-1. **Home Page**: The landing page showcases featured content and categorized movies/shows
-2. **Browse**: Navigate through different categories and search for content
-3. **Profiles**: Select or manage different user profiles
-4. **Authentication**: Login page with form validation (demo purposes)
-
-## 🎨 Customization
-
-- Modify `tailwind.config.ts` for theme customization
-- Update components in `components/ui` for UI modifications
-- Add new pages in the `app` directory
-- Customize content categories in page components
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📄 License
 
@@ -116,8 +96,5 @@ This is a demo project created for educational purposes only. All content, logos
 ## 👤 Author
 
 Karan Suthar
-- GitHub: [@KaranJangid8656](https://github.com/KaranJangid8656)
 
----
 
-Made with ❤️ using Next.js and Tailwind CSS
